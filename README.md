@@ -1,3 +1,4 @@
+
 ### Perfil Deividi Martin!
 <br>
 
@@ -12,3 +13,15 @@
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 <br><br><br><br>
 ![DeividiMartin GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividiMartin&theme=blue-green)
+
+<br><br>
+
+### Projeto Ar Condicionado em Python -> [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeividiMartin/ar_condicionado/tree/master)
+
+<br>
+
+### Projeto Controle de Banco -> [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeividiMartin/Controle-de-Banco/tree/master/src)
+
+<br>
+
+### Projeto Estoque ->  [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeividiMartin/Controle-de-estoque/tree/master)
