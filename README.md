@@ -16,7 +16,7 @@
 
 <br><br>
 
-### Projeto Ar Condicionado em Python -> [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeividiMartin/ar_condicionado/tree/master)
+### Projeto Ar Condicionado -> [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeividiMartin/ar_condicionado/tree/master)
 
 <br>
 
