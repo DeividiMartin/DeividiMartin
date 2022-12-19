@@ -1,4 +1,3 @@
-
 ### Perfil Deividi Martin!
 <br>
 
@@ -11,3 +10,5 @@
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<br><br><br><br>
+![DeividiMartin GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividiMartin&theme=blue-green)
