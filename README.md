@@ -11,7 +11,7 @@
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/MYSQL-00000F?style=for-the-badge&logo=mysql&logoColor=)
 <br><br><br><br>
-![DeividiMartin GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividiMartin&theme=blue-green)
+![DeividiMartin GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividiMartin&theme=blue-white)
 
 <br><br>
 ### Projeto EngineStock -> [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeividiMartin/StockEgine)
