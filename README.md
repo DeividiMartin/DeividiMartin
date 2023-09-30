@@ -17,6 +17,9 @@
 ### Projeto Site Adoção de Pets -> [![JAVASCRIPT](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)](https://deividimartin.github.io)
 
 <br>
+### Projeto EngineStock -> [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeividiMartin/StockEgine/tree/main/EngineStock/src)
+
+<br>
 
 ### Projeto Ar Condicionado -> [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeividiMartin/ar_condicionado/tree/master)
 
