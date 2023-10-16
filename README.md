@@ -14,11 +14,12 @@
 ![DeividiMartin GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividiMartin&theme=black-white)
 
 <br><br>
-### Projeto EngineStock -> [https://github.com/DeividiMartin/StockEgine][![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeividiMartin/StockEgine)
+### Projeto EngineStock -> [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeividiMartin/StockEgine)
 
 <br>
 
-### Projeto Site Adoção de Pets -> [![JAVASCRIPT](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)](https://deividimartin.github.io)
+### [![JAVASCRIPT](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)](https://deividimartin.github.io) [Projeto Site Adoção de Pets](https://deividimartin.github.io)
+
 
 <br>
 
