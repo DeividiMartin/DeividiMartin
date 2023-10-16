@@ -14,7 +14,7 @@
 ![DeividiMartin GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividiMartin&theme=black-white)
 
 <br><br>
-### Projeto EngineStock -> [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeividiMartin/StockEgine)
+### Projeto EngineStock -> [https://github.com/DeividiMartin/StockEgine][![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeividiMartin/StockEgine)
 
 <br>
 
