@@ -7,33 +7,6 @@
 ### Desenvolvedor em:
 
 
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/MYSQL-00000F?style=for-the-badge&logo=mysql&logoColor=)
-<br><br><br><br>
 ![DeividiMartin GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividiMartin&theme=black-white)
 
-<br><br>
-### [Projeto EngineStock](https://github.com/DeividiMartin/StockEgine) -> [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeividiMartin/StockEgine)
 
-<br>
-
-### [Projeto Site Adoção de Pets Frontend](https://github.com/DeividiMartin/FrontendAdorptionCats)
-
-### [Projeto Site Adoção de Pets Backend](https://github.com/DeividiMartin/backend-adoptioncat)
-
-### [Projeto Site Adoção de Pets](https://deividimartin.github.io)
-
-
-
-<br>
-
-### [Projeto Ar Condicionado](https://github.com/DeividiMartin/ar_condicionado/tree/master) -> [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeividiMartin/ar_condicionado/tree/master)
-
-<br>
-
-### [Projeto Controle de Banco](https://github.com/DeividiMartin/Controle-de-Banco/tree/master/src)-> [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeividiMartin/Controle-de-Banco/tree/master/src)
-
-<br>
-
-### [Projeto Estoque](https://github.com/DeividiMartin/Controle-de-estoque/tree/master) ->  [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeividiMartin/Controle-de-estoque/tree/master)
