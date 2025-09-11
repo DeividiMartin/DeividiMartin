@@ -12,18 +12,8 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
-
-Sou **Desenvolvedor Full-Stack** focado em **JavaScript/TypeScript**, **Node.js** e **React**. Tenho experiência com desenvolvimento web, APIs e boas práticas de versionamento.  
-Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para entregar soluções eficientes e escaláveis.
-
 ```yaml
 nome: Deividi Martin
 função: Desenvolvedor Full-Stack
 local: Brasil
-stack_principal:
-  - JavaScript / TypeScript
-  - Node.js
-  - React
-  - Python
 objetivo: Criar soluções escaláveis e de impacto
