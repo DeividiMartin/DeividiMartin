@@ -14,6 +14,6 @@
 
 ```yaml
 nome: Deividi Martin
-função: Desenvolvedor Full-Stack
+função: Desenvolvedor
 local: Brasil
 objetivo: Criar soluções escaláveis e de impacto
