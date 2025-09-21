@@ -1,10 +1,3 @@
-<!-- Botão EN -->
-<p align="center">
-  <a href="README.en.md">
-    <img src="https://img.shields.io/badge/EN-English-blue?style=for-the-badge" alt="English">
-  </a>
-</p>
-
 <!-- Banner profissional -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=150&section=header&text=Deividi%20Martin&fontSize=36&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descAlignY=55&descAlign=50" alt="Banner Deividi Martin">
