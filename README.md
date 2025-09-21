@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##Sobre mim
 
 Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia, automação e inovação.  
 Minha missão é **transformar ideias em soluções escaláveis e de impacto**, utilizando as melhores práticas de desenvolvimento e design.
@@ -51,7 +51,7 @@ Minha missão é **transformar ideias em soluções escaláveis e de impacto**, 
 
 ---
 
-## 📈 Estatísticas GitHub
+## Estatísticas GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeividiMartin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -60,9 +60,9 @@ Minha missão é **transformar ideias em soluções escaláveis e de impacto**, 
 
 ---
 
-## 📫 Contato
-📩 **Email:** deividi_97@hotmail.com  
-💼 **LinkedIn:** [Deividi Martin](https://www.linkedin.com/in/deividi-martin-4b02391a3/)  
+## Contato
+**Email:** deividi_97@hotmail.com  
+**LinkedIn:** [Deividi Martin](https://www.linkedin.com/in/deividi-martin-4b02391a3/)  
 
 
 ---
