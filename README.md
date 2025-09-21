@@ -25,7 +25,7 @@ Minha missão é **transformar ideias em soluções escaláveis e de impacto**, 
 
 ---
 
-## 🚀 Tech Stack
+##Tech Stack
 
 <p align="center">
   <!-- Front-end -->
