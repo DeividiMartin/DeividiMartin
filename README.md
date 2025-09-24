@@ -41,15 +41,6 @@ Minha missão é entregar **software confiável, eficiente e moderno**, sempre a
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 </p>
 
----
-
-## Projetos em destaque
-
-- **Sistema de Orçamentos Automotivos** – Desktop app em Electron + Node.js + React, com controle de clientes, orçamentos e pagamentos.  
-- **DoisS Auto Peças** – E-commerce com integração de APIs de frete e CEP, frontend em Tailwind CSS, backend em Node.js/TypeScript.  
-- **Automação ERP** – Scripts que integram sistemas para automação de processos e publicações em marketplaces.
-
-*(Veja mais projetos no meu [GitHub](https://github.com/DeividiMartin))*  
 
 ---
 
