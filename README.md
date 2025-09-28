@@ -57,7 +57,7 @@ Minha missão é entregar **software confiável, eficiente e moderno**, sempre a
 
 **Email:** deividi_97@hotmail.com<br>
 **LinkedIn:** [Deividi Martin](https://www.linkedin.com/in/deividi-martin-4b02391a3/)<br>
-**Portifolio:** [Deividi Martin](https://www.deividimartin-portfolio.vercel.app/).
+**Portifolio:** [Deividi Martin](deividimartin-portfolio.vercel.app/).
 
 
 ---
