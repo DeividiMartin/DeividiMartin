@@ -4,11 +4,6 @@
 </p>
 
 
-<br><br>
-
-Sou um **Desenvolvedor Back-End / Full-Stack Júnior** apaixonado por criar soluções que conectam pessoas, dados e sistemas.  
-Tenho experiência em **Node.js, TypeScript, APIs REST, bancos de dados e automações**, e gosto de transformar ideias em **projetos reais e escaláveis**.  
-Minha missão é entregar **software confiável, eficiente e moderno**, sempre aprendendo novas tecnologias e práticas de desenvolvimento.
 
 ---
 
