@@ -43,7 +43,7 @@
       <p align="center">Desenvolvi páginas do e-commerce de um CDV usando React, TypeScript e Tailwind CSS, incluindo login, cadastro, listagem de produtos e footer. Integrei APIs de frete e CEP, e dei suporte no backend com Node.js, Prisma e PostgreSQL, além de configurar o ambiente          com Docker.
       </p>
       <p align="center">
-        <a href="https://doissautopecas.com.br/" target="_blank">
+        <a href="https://deividimartin-portfolio.vercel.app/projetos/ecommerce" target="_blank">
            <img src="https://img.shields.io/badge/Ver%20no%20Portfólio-6CC644?style=for-the-badge" />
         </a>
       </p>
