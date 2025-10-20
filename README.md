@@ -16,7 +16,6 @@
 
 </p><br><br>
 
-
 ---
 
 <br><br>
@@ -25,6 +24,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeividiMartin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividiMartin&layout=compact&langs_count=7&theme=radical"/>
 </p>
+<br>
+
+---
+
 <br><br>
 <table>
   <tr>
@@ -60,8 +63,11 @@
     </td>
   </tr>
 </table>
+<br><br>
 
-<br><br><br>
+---
+
+<br><br>
 
 **Email:** deividi_97@hotmail.com<br>
 **LinkedIn:** [Deividi Martin](https://www.linkedin.com/in/deividi-martin-4b02391a3/)<br>
