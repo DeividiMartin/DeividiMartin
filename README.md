@@ -88,7 +88,3 @@ Atuar como **Desenvolvedor Java Back-End Júnior**, contribuindo no desenvolvime
 **Portfólio:** https://deividimartin-portfolio.vercel.app  
 
 ---
-
-<p align="center">
-  <strong>Java • Spring Boot • REST APIs • Clean Architecture</strong>
-</p>
