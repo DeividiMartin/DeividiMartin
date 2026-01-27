@@ -85,6 +85,6 @@ Atuar como **Desenvolvedor Java Back-End Júnior**, contribuindo no desenvolvime
 
 **Email:** deividi_97@hotmail.com  
 **LinkedIn:** https://www.linkedin.com/in/deividi-martin-4b02391a3/  
-**Portfólio:** https://deividimartin-portfolio.vercel.app  
+**Portfólio:** https://deividimartin-portifolio.vercel.app/  
 
 ---
