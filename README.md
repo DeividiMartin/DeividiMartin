@@ -1,4 +1,4 @@
-<!-- ===================== BANNER ===================== -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=160&section=header&text=Deividi%20Martin&fontSize=36&fontAlignY=35&desc=Java%20Back-End%20Developer&descAlignY=55" />
 </p>
